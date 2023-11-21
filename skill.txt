@@ -1,0 +1,51 @@
+Python
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Flask
+Streamlit
+PySpark
+spark
+Databases
+MySQL
+PostgreSQL
+BigQuery
+SQL
+Microsoft Excel
+SQLite
+Data Visualizations
+Visualizations
+DataStudio
+Looker
+Tableau
+Metabase
+Data Science
+Regression
+Classification
+Clustering
+Scikit-Learn
+Collaborative Filtering (ALS)
+Machine Learning
+XGBoost
+Deep Learning
+Tensorflow
+Keras
+PyTorch
+CNN
+Natural Language Processing
+NLP
+A/B Testing
+AI
+Data Mining
+Statistics
+Cloud
+Airflow
+Google Analytics
+Athena
+GitHub
+AWS
+S3
+Lambda
+Glue
+Athena
